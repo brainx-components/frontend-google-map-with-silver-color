@@ -13,7 +13,7 @@ There is nothing complex, just clone the project and BOOM.
 ### Screenshot of UI:
 
 
-![alt text]()
+![alt text](https://github.com/brainx-components/frontend-google-map-with-silver-color/blob/develop/img/screen-short/pincard.PNG)
 
 
 
